@@ -1,8 +1,8 @@
 ---OBJETIVOS---
 
-1.Interfaz de administrador: 
-    1.1. Actualizar estado de un servicio
-
-2. Interfaz de usuario
-    2. Consultar los servicios del hotel
-
+1.Usuarios general
+    1.1. Consultar usuarios(login)
+    1.2. Insertar usuarios(Registro)
+    1.3. Interfaz con datos del usuario
+        1.3.1. Actualizar datos.
+        1.3.2. Eliminar usuarios
