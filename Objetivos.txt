@@ -1,16 +1,8 @@
 ---OBJETIVOS---
 
-Interfaz de administrador: 
+1.Interfaz de administrador: 
+    1.1. Actualizar estado de un servicio
 
-1.Interfaz de habitaciones
-    1.1.Agregar una habitacion nueva(formulario).
-    1.2. Consultar todas las habitaciones
-    1.2.1 Actualizar uno o mas datos de una habitacion.
-
-
-2.Interfaz de Recepcionista:
-    2.1.Consultar habitaciones no disponibles y disponibles
-
-3. Interfaz de usuario:
-    3.1.Consultar habitaciones disponibles
+2. Interfaz de usuario
+    2. Consultar los servicios del hotel
 
