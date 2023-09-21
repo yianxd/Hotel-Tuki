@@ -1,10 +1,8 @@
 ---OBJETIVOS---
-1.Principal
-2.Login/Registros
-    -PERFIL DE USUARIO(ACTUALIZAR DATOS/ELIMINAR CUENTAS)
-3.CRUD RESERVAS/BARRA INTERFAZ
-    -LIMITAR CRUD RESERVAS DEPENDIENDO DEL ROL
-5.UPDATE/INSERT HABITACIONES /BARRA INTERFAZ
-6.CRUD SERVICIOS/BARRA INTERFAZ
 
-
+1.Usuarios general
+    1.1. Consultar usuarios(login)
+    1.2. Insertar usuarios(Registro)
+    1.3. Interfaz con datos del usuario
+        1.3.1. Actualizar datos.
+        1.3.2. Eliminar usuarios
