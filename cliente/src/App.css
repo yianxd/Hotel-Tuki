@@ -1,3 +1,70 @@
 .App {
   text-align: center;
 }
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.card{
+  margin-top: 50px;
+  width: 71vw;
+  display: flex;
+  justify-content: space-around;
+  background-color: bisque;
+}
+
+.card-header{
+  font-size: calc(40px + 2vmin);
+  color: aliceblue;
+}
+
+.formulario{
+  background-color: beige;
+  width: 40vw;
+  margin-left: 250px;
+  padding-left: 40px;
+  padding-right: 40px;
+  color: blanchedalmond;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+.btn-secondary{
+  margin-left: 20px;
+}
+.formulario h1{
+  color: black;
+  text-align: center;
+  padding: 10px;
+  font-size: 25px;
+  margin: 20px;
+}
+
+.formulario .info{
+  margin-bottom: 20px;
+}
+
+.info label{
+  display: block;
+  color: black;
+  font-weight: bold;
+ text-align: left; 
+}
+
+.info input{
+  display: block;
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid black;
+  padding: 5px;
+  outline: none;
+  background-color: aliceblue;
+}
+
+.lista{
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
