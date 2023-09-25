@@ -1,7 +1,10 @@
-.App {
+.registro {
   text-align: center;
 }
 
+body{
+  background-color: #728239;
+}
 *{
   margin: 0;
   padding: 0;
@@ -12,21 +15,21 @@
   width: 71vw;
   display: flex;
   justify-content: space-around;
-  background-color: bisque;
+  background-color: #728239;
 }
 
 .card-header{
   font-size: calc(40px + 2vmin);
-  color: aliceblue;
+  color: #272c0c;
 }
 
 .formulario{
-  background-color: beige;
+  background-color: #bbc46b;
   width: 40vw;
   margin-left: 250px;
   padding-left: 40px;
   padding-right: 40px;
-  color: blanchedalmond;
+  color: #272c0c;
   margin-bottom: 10px;
   margin-top: 10px;
   padding-bottom: 10px;
@@ -35,7 +38,7 @@
   margin-left: 20px;
 }
 .formulario h1{
-  color: black;
+  color: #272c0c;
   text-align: center;
   padding: 10px;
   font-size: 25px;
@@ -48,7 +51,7 @@
 
 .info label{
   display: block;
-  color: black;
+  color: #272c0c;
   font-weight: bold;
  text-align: left; 
 }
@@ -57,10 +60,10 @@
   display: block;
   width: 100%;
   border: none;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid rgb(10, 0, 0);
   padding: 5px;
   outline: none;
-  background-color: aliceblue;
+  background-color: #eef1d3;
 }
 
 .lista{
